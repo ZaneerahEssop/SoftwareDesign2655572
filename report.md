@@ -6,3 +6,5 @@ This is a simple HTML page about myself created for the Git and GitHub assignmen
 - `student-info.txt`: Contains my student ID and name.
 - `report.md`: This report.
 - `index.html`: Contains a simple webpage with my student ID.
+
+I have learnt how to deploy and manage branches.
